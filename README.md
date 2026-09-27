@@ -2,6 +2,10 @@
 
 Веб-приложение в стиле **Messenger Web** для работы с [Green API](https://green-api.com/) — сервисом отправки и приёма сообщений через WhatsApp, Telegram и другие мессенджеры.
 
+## 🚀 Демо
+
+[Открыть демо](https://maddlogg.github.io/green-api-test-task/)
+
 ## Возможности
 
 - **Отправка текстовых сообщений** через Green API по номеру телефона
